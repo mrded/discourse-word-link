@@ -1,0 +1,3 @@
+word_link:
+    type: list
+    default: 'foo,https://foo.com|bar,https://bar.com'
